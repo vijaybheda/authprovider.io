@@ -1,6 +1,6 @@
 [
     {
-        "version" : 1,
+        "version" : 0,
         "isLegalFilterEnabled": true,
         "filterKeywords": [
             "legal",
@@ -12,7 +12,10 @@
             "law procedure",
             "criminal",
             "police",
-            "report"
+            "report",
+            "court",
+            "Indian Penal Code",
+            "section"
         ]
     }
 ]
