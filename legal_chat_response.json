@@ -1,6 +1,6 @@
 [
     {
-        "version" : 0,
+        "version" : 1,
         "isLegalFilterEnabled": true,
         "filterKeywords": [
             "legal",
@@ -10,7 +10,9 @@
             "litigation",
             "rightful",
             "law procedure",
-            "criminal"
+            "criminal",
+            "police",
+            "report"
         ]
     }
 ]
