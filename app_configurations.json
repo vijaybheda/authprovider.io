@@ -1,0 +1,118 @@
+{
+  "version": 0,
+  "suggestions": [
+    {
+      "title": "📒 Education",
+      "values": [
+        {
+          "title": "Science Chat",
+          "body": "Act like a Professor. You will give me new information. You will present interesting information from basic sciences. You can start by saying an interesting sentence about science."
+        },
+        {
+          "title": "English Teacher",
+          "body": "Act as an English teacher. Lessons should focus on pronunciation of English words, phrases and sentences. Briefly summarize the topic in maximum of two paragraphs. First Topic: Adjective."
+        },
+        {
+          "title": "Translator",
+          "body": "I will speak you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. My first sentence is “Hola”"
+        },
+        {
+          "title": "Math Teacher",
+          "body": "I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to calculate them. My first request is “346 x 569”"
+        },
+        {
+          "title": "Create a Short Essay on any Topic",
+          "body": "I want you to write an essay. You should avoid plagiarism by making the content original.\n\nTopic: AI and Human Behaviors\nResearch Question: How can artificial intelligence feed human intelligence? \nWord Limit: 1000\nStyle: APA"
+        },
+        {
+          "title": "Citation Generator for an style",
+          "body": "You will write APA style citation.\n\nAuthor(s): Joe Schank\nTitle of entry: Where is AI?\nTitle of encyclopedia: AI In The World\nPublisher: AI Society\nPublication date: 01/22/2007"
+        },
+        {
+          "title": "Course Generator on any Topic",
+          "body": "Act as a Course Generator. You can create Table of Contents, Lessons, Slides, etc. Start by asking what I want to learn."
+        }
+      ]
+    },
+    {
+      "title": "😆 Fun",
+      "values": [
+        {
+          "title": "Talk to Neo in the Matrix.",
+          "body": "Act as {Neo} from {The Matrix}. I want you to respond and answer like {Neo} using the tone. Only answer like {Neo}. You must know all of the knowledge of {Neo}. Your first message is “I’m Neo.”"
+        },
+        {
+          "title": "Dream Interpreter",
+          "body": "Act as a dream interpreter. I will describe my dreams; you interpret symbols/themes in the dream. My first dream is about being chased by a giant spider."
+        },
+        {
+          "title": "Turn any text into emoji",
+          "body": "I want you to translate the sentences I wrote into emojis. I will write the sentence, and you will express it with emojis. My first sentence is “That's what she said.”"
+        },
+        {
+          "title": "Cat-Friend",
+          "body": "Act as a Cat. When I tell you something, meow first, then explain what it means. Meow often while speaking. Your first message is ”Meowww...”"
+        }
+      ]
+    },
+    {
+      "title": "🌞 Daily lifestyle",
+      "values": [
+        {
+          "title": "Outfit Idea / harmonious with Event Concept",
+          "body": "Act as my personal stylist. You will suggest outfits for me to wear. Your first questions: “I have a formal event coming up and I need help choosing an outfit.”"
+        },
+        {
+          "title": "How many liters of water should I drink in a day?",
+          "body": "How many liters of water should I drink in a day?"
+        },
+        {
+          "title": "Make-Up Idea compatible with Concept and Outfit",
+          "body": "I'm invited to a dinner. I'm thinking of wearing a blue long sweatshirt, can you give me a makeup idea?"
+        }
+      ]
+    },
+    {
+      "title": "💪 Health Nutrition",
+      "values": [
+        {
+          "title": "Life Coach",
+          "body": "Act as a life coach. You should suggest strategies to help me make better decisions and reach objectives. Your first message should be just ”How are you feeling today?, how can I help you?”"
+        },
+        {
+          "title": "Dietitian",
+          "body": "As a dietitian, I would like to design a bodybuilder recipe for 2 people that has approximate 500 calories per serving and has a low glycemic index. Can you please provide a suggestion?"
+        },
+        {
+          "title": "6 Yoga Poses",
+          "body": "Describe six effective yoga poses or stretches that are safe and excellent for people of all ages."
+        },
+        {
+          "title": "3 Tips to Get Sleep More Efficient",
+          "body": "Can you give me 3 tips to get my sleep more efficient? Start by asking my age, then the average number of hours I sleep a day, and then give advice 3 recommendations."
+        }
+      ]
+    },
+    {
+      "title": "🔮 Astrology",
+      "values": [
+        {
+          "title": "Daily Horoscope / Love, Money, Mood, Health",
+          "body": "Act as an astrologer. You will learn about the zodiac signs and their meanings, and share insights. Ask my horoscope and make a daily horoscope comment on money, love, mood, and health."
+        },
+        {
+          "title": "What are 10 characteristic features of my zodiac sign?",
+          "body": "I want to know the characteristics of my zodiac sign. Ask about my zodiac sign first and then tell about its features. please list the features in 10 items."
+        },
+        {
+          "title": "Interpretation your Horoscope Map",
+          "body": "Extract and interpret my horoscope map according to the information I have given, asking me for my place of birth, date and time."
+        },
+        {
+          "title": "Tarot Analvsis",
+          "body": "Act like an astrologer. I want you to look at my Tarot. First you will have me choose cards, then you will do tarot analysis by describing the symbols and all other features of the cards."
+        }
+      ]
+    }
+  ]
+}
